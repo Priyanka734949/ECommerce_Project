@@ -3,13 +3,11 @@ A java-based e-commerce project with features such as product catalog management
 
 Table of Contents
 
-- #project-description
-- #features
-- #technologies-used
-- #getting-started
-- #usage
-- #contributing
-- #license
+- project-description
+- features
+- technologies-used
+- getting-started
+- usage
 
 Project Description:
 This project is a basic e-commerce system that allows users to register, login, view products, add products to their cart, and checkout. The system uses a TreeSet to store products and cart items, ensuring that products are sorted by their IDs.
